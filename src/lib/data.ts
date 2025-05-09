@@ -16,7 +16,7 @@ export const doctors: Doctor[] = [
       online: true,
       onlineInMinutes: 2,
     },
-    avatar: "/images/doctors/1.png",
+    avatar: "/doctors/doctor1.webp",
     badges: ["Doctor of the Hour"],
   },
   {
@@ -35,7 +35,7 @@ export const doctors: Doctor[] = [
       online: true,
       onlineInMinutes: 1,
     },
-    avatar: "/images/doctors/2.png",
+    avatar: "/doctors/doctor2.webp",
   },
   {
     id: "3",
@@ -58,7 +58,7 @@ export const doctors: Doctor[] = [
       value: 98,
       patients: 125,
     },
-    avatar: "/images/doctors/3.png",
+    avatar: "/doctors/doctor3.webp",
   },
   {
     id: "4",
@@ -84,7 +84,7 @@ export const doctors: Doctor[] = [
       value: 93,
       patients: 175,
     },
-    avatar: "/images/doctors/4.png",
+    avatar: "/doctors/doctor4.webp",
   },
   {
     id: "5",
@@ -101,7 +101,7 @@ export const doctors: Doctor[] = [
     availability: {
       onlineInMinutes: 2,
     },
-    avatar: "/images/doctors/5.png",
+    avatar: "/doctors/doctor5.webp",
   },
   {
     id: "6",
@@ -119,7 +119,7 @@ export const doctors: Doctor[] = [
       onlineInMinutes: 12,
       offlineInMinutes: 12,
     },
-    avatar: "/images/doctors/6.png",
+    avatar: "/doctors/doctor6.webp",
   },
   {
     id: "7",
@@ -139,6 +139,6 @@ export const doctors: Doctor[] = [
         onlineInMinutes: 1,
         offlineInMinutes: 1,
     },
-    avatar: "/images/doctors/7.png",
+    avatar: "/doctors/doctor7.webp",
   },
 ];
